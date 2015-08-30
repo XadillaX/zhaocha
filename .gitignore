@@ -1,4 +1,7 @@
 # Created by https://www.gitignore.io/api/visualstudio,c++,windows
+*.psd
+Zhaocha/Res
+*.old
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
