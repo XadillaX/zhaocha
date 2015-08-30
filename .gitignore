@@ -2,6 +2,7 @@
 *.psd
 Zhaocha/Res
 *.old
+PicMaker.ini
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
