@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zhaocha", "Zhaocha/Zhaocha.vcxproj", "{38386501-AAE7-4167-9538-A82C83E39B9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PicMaker", "PicMaker/PicMaker.vcxproj", "{57807FF8-8788-4DC0-824F-7A6DFCDD52F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38386501-AAE7-4167-9538-A82C83E39B9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38386501-AAE7-4167-9538-A82C83E39B9F}.Debug|Win32.Build.0 = Debug|Win32
+		{38386501-AAE7-4167-9538-A82C83E39B9F}.Release|Win32.ActiveCfg = Release|Win32
+		{38386501-AAE7-4167-9538-A82C83E39B9F}.Release|Win32.Build.0 = Release|Win32
+		{57807FF8-8788-4DC0-824F-7A6DFCDD52F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57807FF8-8788-4DC0-824F-7A6DFCDD52F6}.Debug|Win32.Build.0 = Debug|Win32
+		{57807FF8-8788-4DC0-824F-7A6DFCDD52F6}.Release|Win32.ActiveCfg = Release|Win32
+		{57807FF8-8788-4DC0-824F-7A6DFCDD52F6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
