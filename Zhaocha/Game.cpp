@@ -1,29 +1,27 @@
 //-------------------------------------------------------------------------
 /*!    COPYRIGHT NOTICE
- *     Copyright (c) 2010, °¬¿ËÊÓÍ¼(X2Studio.Net)
+ *     Copyright (c) 2010, è‰¾å…‹è§†å›¾(X2Studio.Net)
  *     All rights reserved.
  *
  * @file Game.h
- * @brief ËÀÔÂÀ´ÕÒ²çÈë¿ÚÎÄ¼ş
+ * @brief æ­»æœˆæ¥æ‰¾èŒ¬å…¥å£æ–‡ä»¶
  *
- * WINAPIÈë¿Úº¯ÊıÎÄ¼ş£¬¼ÓÔØÓÎÏ·Àà²¢ÔËĞĞ
+ * WINAPIå…¥å£å‡½æ•°æ–‡ä»¶ï¼ŒåŠ è½½æ¸¸æˆç±»å¹¶è¿è¡Œ
  * @version 1.0
- * @author ËÀÔÂ(8644325)
- * @date 2010Äê10ÔÂ8ÈÕ
+ * @author æ­»æœˆ(8644325)
+ * @date 2010å¹´10æœˆ8æ—¥
  */
 //-------------------------------------------------------------------------
 #include "global.h"
 
 /**
- * @breif ³ÌĞòÈë¿Ú
- * WINAPIº¯Êı
- *
+ * @breif ç¨‹åºå…¥å£
+ * WINAPIå‡½æ•°
  * @see CGameWorld::CGameWorld
  */
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
     g_GameWorld = new CGameWorld();
     g_GameWorld->StartEngine();
-    
     return 0;
 }
