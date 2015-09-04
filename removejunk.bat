@@ -8,7 +8,4 @@ pause
 
 del /F /Q /S *.aps *.idb *.ncp *.obj *.pch *.sbr *.tmp *.pdb *.bsc *.ilk *.ncb *.opt *.suo *.manifest *.dep
 
-
 pause
-
-
